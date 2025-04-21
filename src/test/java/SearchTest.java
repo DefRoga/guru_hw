@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class SearchTest {
 
-
+//achievement
     @Test
     void SearchJunit5CodeOnGithub() {
         open("https://github.com/");//Открытие гитхаба
