@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'ru.vkusvill'
+group = 'ru.Vkusvill'
 version = '1.0'
 
 repositories {
